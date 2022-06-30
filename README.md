@@ -1,6 +1,8 @@
 # argocd-demo
 ArgoDC Demo
+
 └── /resources
+
     ├── /base # 기본 manifest 리소스 
     │   ├── deployment.yaml
     │   └── service.yaml
